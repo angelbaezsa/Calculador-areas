@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QffOE6yV7eRek5XnJWvsmiA6AKh52a8eWxOfJXSMwiT34BNfIVzZvJGHy2QZMl4qvEEpZY6K+OhzzyRQ8+GNEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Angel Baez\\Desktop\\ITLA\\Tercer Cuatrimestre\\Programacion 1 Juan Rosario\\Tarea 4\\Tarea 4\\Tarea 4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Angel Baez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

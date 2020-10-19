@@ -1,0 +1,13 @@
+C:\Users\Angel Baez\Desktop\ITLA\Tercer Cuatrimestre\Programacion 1 Juan Rosario\Tarea 4\Tarea 4\bin\Debug\netcoreapp3.1\Tarea 4.exe
+C:\Users\Angel Baez\Desktop\ITLA\Tercer Cuatrimestre\Programacion 1 Juan Rosario\Tarea 4\Tarea 4\bin\Debug\netcoreapp3.1\Tarea 4.deps.json
+C:\Users\Angel Baez\Desktop\ITLA\Tercer Cuatrimestre\Programacion 1 Juan Rosario\Tarea 4\Tarea 4\bin\Debug\netcoreapp3.1\Tarea 4.runtimeconfig.json
+C:\Users\Angel Baez\Desktop\ITLA\Tercer Cuatrimestre\Programacion 1 Juan Rosario\Tarea 4\Tarea 4\bin\Debug\netcoreapp3.1\Tarea 4.runtimeconfig.dev.json
+C:\Users\Angel Baez\Desktop\ITLA\Tercer Cuatrimestre\Programacion 1 Juan Rosario\Tarea 4\Tarea 4\bin\Debug\netcoreapp3.1\Tarea 4.dll
+C:\Users\Angel Baez\Desktop\ITLA\Tercer Cuatrimestre\Programacion 1 Juan Rosario\Tarea 4\Tarea 4\bin\Debug\netcoreapp3.1\Tarea 4.pdb
+C:\Users\Angel Baez\Desktop\ITLA\Tercer Cuatrimestre\Programacion 1 Juan Rosario\Tarea 4\Tarea 4\obj\Debug\netcoreapp3.1\Tarea 4.csprojAssemblyReference.cache
+C:\Users\Angel Baez\Desktop\ITLA\Tercer Cuatrimestre\Programacion 1 Juan Rosario\Tarea 4\Tarea 4\obj\Debug\netcoreapp3.1\Tarea 4.AssemblyInfoInputs.cache
+C:\Users\Angel Baez\Desktop\ITLA\Tercer Cuatrimestre\Programacion 1 Juan Rosario\Tarea 4\Tarea 4\obj\Debug\netcoreapp3.1\Tarea 4.AssemblyInfo.cs
+C:\Users\Angel Baez\Desktop\ITLA\Tercer Cuatrimestre\Programacion 1 Juan Rosario\Tarea 4\Tarea 4\obj\Debug\netcoreapp3.1\Tarea 4.csproj.CoreCompileInputs.cache
+C:\Users\Angel Baez\Desktop\ITLA\Tercer Cuatrimestre\Programacion 1 Juan Rosario\Tarea 4\Tarea 4\obj\Debug\netcoreapp3.1\Tarea 4.dll
+C:\Users\Angel Baez\Desktop\ITLA\Tercer Cuatrimestre\Programacion 1 Juan Rosario\Tarea 4\Tarea 4\obj\Debug\netcoreapp3.1\Tarea 4.pdb
+C:\Users\Angel Baez\Desktop\ITLA\Tercer Cuatrimestre\Programacion 1 Juan Rosario\Tarea 4\Tarea 4\obj\Debug\netcoreapp3.1\Tarea 4.genruntimeconfig.cache
